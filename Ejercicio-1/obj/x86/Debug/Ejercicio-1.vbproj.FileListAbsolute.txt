@@ -1,0 +1,8 @@
+C:\Users\Jean\Documents\GitHub\Ejercicio1\Ejercicio-1\bin\Debug\Ejercicio-1.exe
+C:\Users\Jean\Documents\GitHub\Ejercicio1\Ejercicio-1\bin\Debug\Ejercicio-1.pdb
+C:\Users\Jean\Documents\GitHub\Ejercicio1\Ejercicio-1\bin\Debug\Ejercicio-1.xml
+C:\Users\Jean\Documents\GitHub\Ejercicio1\Ejercicio-1\obj\x86\Debug\Ejercicio_1.Resources.resources
+C:\Users\Jean\Documents\GitHub\Ejercicio1\Ejercicio-1\obj\x86\Debug\Ejercicio-1.vbproj.GenerateResource.Cache
+C:\Users\Jean\Documents\GitHub\Ejercicio1\Ejercicio-1\obj\x86\Debug\Ejercicio-1.exe
+C:\Users\Jean\Documents\GitHub\Ejercicio1\Ejercicio-1\obj\x86\Debug\Ejercicio-1.xml
+C:\Users\Jean\Documents\GitHub\Ejercicio1\Ejercicio-1\obj\x86\Debug\Ejercicio-1.pdb
